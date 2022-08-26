@@ -1,0 +1,1 @@
+This is almost identical to the official Erlang image. The only difference is I didn't delete the source code after Erlang was built.
